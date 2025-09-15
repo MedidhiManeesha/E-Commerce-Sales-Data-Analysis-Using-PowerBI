@@ -1,54 +1,33 @@
-# E-Commerce-Sales-Data-Analysis-Using Power BI
+# 📊 E-Commerce Sales Data Analysis using Power BI
 
-### Project Overview:
- 
-E-commerce businesses generate massive amounts of sales data, but extracting meaningful insights to optimize performance can be challenging. Traditional methods are often time-consuming and lack the visual clarity needed to identify trends and customer behavior. This is akin to sifting through mountains of unorganized information – while the data is there, it requires significant effort to clean, analyze, and transform it into actionable knowledge.
-This project proposes a solution: a comprehensive Power BI report that acts as a compass, guiding us through this vast data landscape. By leveraging Power BI's visualizations, we can better understand of orders, product performance, customer trends, and profitability. This analysis will empower data-driven decisions to optimize pricing, target marketing efforts, and ultimately drive business growth.
+## Project Overview  
+E-commerce businesses generate huge volumes of sales data, but turning that raw information into actionable insights is often challenging. This project leverages **Power BI** to transform Flipkart’s sales dataset into an interactive dashboard that highlights key business metrics. The analysis provides visibility into **orders, product performance, customer behavior, profitability, and forecasting**, enabling data-driven decisions to improve pricing, marketing strategies, and overall business growth.  
 
-### Data Source:
+## Data Source  
+- **Flipkart Sales Dataset** (`Flipkart Sales Dataset.xlsx`) — provided in Excel format.  
 
-Flipkart Sales Dataset- This dataset is initially available in "xlsx" format, which is used for the analysis "Flipkart Sales Dataset.xlsx" file, which contains the details of the sales.
+## Tools & Technologies  
+- **Power BI** (data cleaning, modeling, DAX calculations, dashboard creation)  
+- **Excel** (source dataset, initial inspection)  
 
-### Tools:
+## Steps Performed  
+1. Data loading and inspection from Excel source.  
+2. Handling missing values and removing empty rows.  
+3. Data cleaning and formatting for consistency.  
+4. Converting raw data into structured tables.  
+5. Building schema relationships between tables.  
+6. Creating **DAX measures** for KPIs (Sales, Profit, YoY Growth, Avg. Order Value, etc.).  
+7. Designing dashboards using Power BI visuals.  
+8. Preparing report documentation and screenshots.  
 
-- Power BI
-  
-### Steps I have done in this Project:
+## Dashboard Pages  
+- **Cover Page** (project overview)  
+- **Main Dashboard** (KPIs, sales & profit overview)  
+- **Order Insights** (trends, seasonality, fulfillment)  
+- **Product Insights** (top products, categories, contribution)  
+- **Customer Insights** (segmentation, purchasing patterns)  
+- **Profit & Forecast** (margins, predictive trends)  
 
-- Data loading and inspection.
-- Handling missing values and empty rows.
-- Data cleaning and formatting.
-- Converting the data into a table.
-- Modifying into a schema through Relationship.
-- Usage of DAX for calculation purposes.
-- Creating dashboards through the Visuals. 
-- Preparation of Report Documentation.
-  
+## Topics Covered  
+`data-analysis` · `powerbi` · `visualization` · `data-cleaning` · `data-modeling` · `dashboard`  
 
-#### If you want to see the Problem statement. 
-Click the link https://drive.google.com/file/d/1J0zR00aH8Of0TLwoF1iyam_TlNLkDhWn/view?usp=drive_link
-
-
-
-#### If you want to know the more details of the Analysis. Check out the Documentation Manual.
-Click the link https://drive.google.com/file/d/1p_VFBPtB29kNHP1BoKrULaRxAULhcbg5/view?usp=drive_link
-
-## Screenshots of Report Pages:
-
-### Cover Page
- ![COVERPAGE](https://github.com/user-attachments/assets/d2e83cdc-cd25-4608-8f71-a7efb108f875)
-
-### Dashboard Page
-![MAIN DB](https://github.com/user-attachments/assets/19c9aa32-b842-4b28-9081-ed42ec92e3db)
-
-### Order Insights Page
-![PAGE 1](https://github.com/user-attachments/assets/3dd9df4d-0b22-4153-bae9-212102e541f1)
-
-### Product Insights Page
-![PAGE 2](https://github.com/user-attachments/assets/9f6f50a0-fdc7-4f56-98f7-df631f6907a8)
-
-### Customer Insights Page
-![PAGE 3](https://github.com/user-attachments/assets/fcc372eb-7f91-4dd3-ae6e-ef07842530fd)
-
-### Profit Insights & Forecast
-![PAGE 4](https://github.com/user-attachments/assets/e924cdab-8581-4ed6-9ffc-1e8e10d114ec)
